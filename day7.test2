@@ -1,0 +1,6 @@
+b AND c -> a
+NOT d -> b
+e -> c
+f LSHIFT 3 -> e
+45 -> d
+2 -> f
